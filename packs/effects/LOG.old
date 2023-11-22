@@ -1,7 +1,7 @@
-2023/11/22-00:30:56.842 f268 Recovering log #8
-2023/11/22-00:30:56.957 f268 Delete type=0 #8
-2023/11/22-00:30:56.957 f268 Delete type=3 #6
-2023/11/22-07:20:23.483 f430 Level-0 table #13: started
-2023/11/22-07:20:23.483 f430 Level-0 table #13: 0 bytes OK
-2023/11/22-07:20:23.531 f430 Delete type=0 #11
-2023/11/22-07:20:23.589 f430 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2023/11/22-07:24:54.153 f268 Recovering log #12
+2023/11/22-07:24:54.255 f268 Delete type=0 #12
+2023/11/22-07:24:54.255 f268 Delete type=3 #10
+2023/11/22-08:29:01.197 f430 Level-0 table #17: started
+2023/11/22-08:29:01.197 f430 Level-0 table #17: 0 bytes OK
+2023/11/22-08:29:01.272 f430 Delete type=0 #15
+2023/11/22-08:29:01.339 f430 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
